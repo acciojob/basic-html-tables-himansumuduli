@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+table{
+	  border: 1px solid #ddd;
+            padding: 1px;
+            text-align: center;
+}
+td,th{
+		  border: 1px solid #ddd;
+}
